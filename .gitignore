@@ -1,0 +1,23 @@
+# Ignore specific files
+client.py
+CLIP.inpynb
+
+# Dataset / large files
+deepfashion2.v1i.yolov8.zip
+
+# Images (if not needed)
+*.png
+*.jpg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/

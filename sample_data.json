@@ -1,0 +1,165 @@
+[
+  {
+    "id": "IW001",
+    "occasion": "Indian Wedding",
+    "sub_occasion": "Haldi",
+    "rule": "Wear breathable cotton or linen kurtas to handle turmeric stains and heat.",
+    "color_logic": "Yellow with off-white or light green enhances traditional Haldi aesthetics.",
+    "accessory": "Floral jewelry or minimal oxidized bangles."
+  },
+  {
+    "id": "IW002",
+    "occasion": "Indian Wedding",
+    "sub_occasion": "Mehendi",
+    "rule": "Opt for flowy georgette or chiffon outfits for comfort during long sitting sessions.",
+    "color_logic": "Green pairs well with mustard or pink for Mehendi vibrance.",
+    "accessory": "Jhumkas and light bangles to avoid obstruction during mehendi application."
+  },
+  {
+    "id": "IW003",
+    "occasion": "Indian Wedding",
+    "sub_occasion": "Sangeet",
+    "rule": "Choose silk-blend lehengas that allow movement for dancing.",
+    "color_logic": "Royal blue with silver embroidery creates stage presence.",
+    "accessory": "Statement earrings; avoid heavy necklaces."
+  },
+  {
+    "id": "IW004",
+    "occasion": "Indian Wedding",
+    "sub_occasion": "Muhurtham",
+    "rule": "Pure silk sarees provide traditional authenticity.",
+    "color_logic": "Red with gold symbolizes prosperity.",
+    "accessory": "Temple jewelry set with gold bangles."
+  },
+  {
+    "id": "IW005",
+    "occasion": "Indian Wedding",
+    "sub_occasion": "Reception",
+    "rule": "Velvet or satin gowns add richness for evening events.",
+    "color_logic": "Wine or maroon with gold highlights.",
+    "accessory": "Clutch and diamond-style jewelry."
+  },
+
+  {
+    "id": "JI001",
+    "occasion": "Job Interview",
+    "sub_occasion": "Tech Startup",
+    "rule": "Smart casual linen shirts with chinos balance professionalism and comfort.",
+    "color_logic": "Pastel blue with beige gives a relaxed but sharp look.",
+    "accessory": "Minimal watch, no flashy items."
+  },
+  {
+    "id": "JI002",
+    "occasion": "Job Interview",
+    "sub_occasion": "Banking/Finance",
+    "rule": "Structured wool or blended suits convey authority.",
+    "color_logic": "Navy blue or charcoal grey for trust and professionalism.",
+    "accessory": "Classic leather belt and formal watch."
+  },
+  {
+    "id": "JI003",
+    "occasion": "Job Interview",
+    "sub_occasion": "Creative/Design",
+    "rule": "Mix textures like denim with structured blazers.",
+    "color_logic": "Monochrome with a pop color like mustard.",
+    "accessory": "Statement glasses or unique watch."
+  },
+  {
+    "id": "JI004",
+    "occasion": "Job Interview",
+    "sub_occasion": "Tech Startup",
+    "rule": "Avoid full suits; go for breathable fabrics like cotton blends.",
+    "color_logic": "Grey t-shirt with navy blazer.",
+    "accessory": "Smartwatch or minimalist sneakers."
+  },
+  {
+    "id": "JI005",
+    "occasion": "Job Interview",
+    "sub_occasion": "Banking/Finance",
+    "rule": "Ironed cotton shirts under wool suits maintain crispness.",
+    "color_logic": "White shirt with navy suit.",
+    "accessory": "Tie with subtle patterns."
+  },
+
+  {
+    "id": "FE001",
+    "occasion": "Formal Event",
+    "sub_occasion": "Awards Night",
+    "rule": "Velvet tuxedos elevate evening glamour.",
+    "color_logic": "Black with satin lapels.",
+    "accessory": "Bow tie and pocket square."
+  },
+  {
+    "id": "FE002",
+    "occasion": "Formal Event",
+    "sub_occasion": "Business Gala",
+    "rule": "Wool suits maintain structure throughout long events.",
+    "color_logic": "Dark grey with white shirt.",
+    "accessory": "Leather shoes and belt."
+  },
+  {
+    "id": "FE003",
+    "occasion": "Formal Event",
+    "sub_occasion": "Black Tie",
+    "rule": "Silk gowns or tuxedos are mandatory.",
+    "color_logic": "Black or deep jewel tones.",
+    "accessory": "Diamond or cufflinks."
+  },
+  {
+    "id": "FE004",
+    "occasion": "Formal Event",
+    "sub_occasion": "Awards Night",
+    "rule": "Satin dresses reflect light beautifully on camera.",
+    "color_logic": "Emerald green or gold.",
+    "accessory": "Statement clutch."
+  },
+  {
+    "id": "FE005",
+    "occasion": "Formal Event",
+    "sub_occasion": "Business Gala",
+    "rule": "Structured blazers with wool trousers ensure elegance.",
+    "color_logic": "Navy with light blue.",
+    "accessory": "Minimal tie pin."
+  },
+
+  {
+    "id": "CL001",
+    "occasion": "Casual/Lifestyle",
+    "sub_occasion": "Airport Look",
+    "rule": "Linen or cotton co-ords provide comfort during travel.",
+    "color_logic": "Neutral tones like beige and white.",
+    "accessory": "Backpack and sunglasses."
+  },
+  {
+    "id": "CL002",
+    "occasion": "Casual/Lifestyle",
+    "sub_occasion": "First Date",
+    "rule": "Soft fabrics like cotton blends create relaxed impressions.",
+    "color_logic": "Pastels like light pink or sky blue.",
+    "accessory": "Subtle perfume and watch."
+  },
+  {
+    "id": "CL003",
+    "occasion": "Casual/Lifestyle",
+    "sub_occasion": "Casual Friday",
+    "rule": "Denim with breathable shirts balances work and comfort.",
+    "color_logic": "Dark blue denim with white shirt.",
+    "accessory": "Loafers or sneakers."
+  },
+  {
+    "id": "CL004",
+    "occasion": "Casual/Lifestyle",
+    "sub_occasion": "Beach Vacation",
+    "rule": "Lightweight linen outfits prevent overheating.",
+    "color_logic": "White with aqua or coral.",
+    "accessory": "Flip-flops and sunglasses."
+  },
+  {
+    "id": "CL005",
+    "occasion": "Casual/Lifestyle",
+    "sub_occasion": "Airport Look",
+    "rule": "Stretchable cotton joggers improve mobility.",
+    "color_logic": "Grey with black or navy.",
+    "accessory": "Neck pillow and cap."
+  }
+]

@@ -1,0 +1,9 @@
+streamlit
+numpy
+opencv-python
+ultralytics
+torch
+Pillow
+transformers
+chromadb
+ollama
